@@ -1,1 +1,1 @@
-{"phone": "phone-5", "idx": 5, "role": "farmer", "phase": "KEY", "ts": 1791962544, "key_age_h": -1, "bat": "77%", "temp": "26C", "ram": "13089MB"}
+{"phone": "phone-5", "idx": 5, "role": "farmer", "phase": "FARM", "ts": 1791963074, "key_age_h": 0.1, "bat": "75%", "temp": "25C", "ram": "13210MB"}
